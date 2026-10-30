@@ -263,45 +263,6 @@ color:green;font-size:20px;">
    Ρητά μου</a>
 
 <br>
-<!--ΧΧΧΧΧΧΧΧΧΧΧ 
-<script>
-function buyBook(paypalLink) {
-var email =
-document.getElementById("email").value;
-if(email=="")
-{
-alert("Δώστε e-mail");
-return;
-}
-window.location.href =
-paypalLink;
-}
-</script>
- -->
-<script>
-document.getElementById("bookForm")
-.addEventListener("submit", function(e) {
-e.preventDefault();
-var email =
-document.getElementById("email").value;
-var formData =
-new FormData();
-formData.append(
-"entry.908172635",
-email
-);
-fetch(
-"https://docs.google.com/forms/d/e/1FAIpQLSdWTIyKot__vus73IgdkzaaZvluUnbofyFJm_v33ZhRp4F_JQ/formResponse",
-{
-method:"POST",
-mode:"no-cors",
-body:formData
-}
-);
-window.location.href =
-"https://www.paypal.com/ncp/payment/25P9JXELVX3TQ";
-});
-</script>
    
 </body>
 </html>
