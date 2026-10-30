@@ -53,16 +53,13 @@ color:blue;font-size:24px;">
 </a>
 
    <!-- Payment link -->
- <form action="https://formsubmit.co/iprogakis@gmail.com" method="POST">
- <input type="email" name="email" placeholder="Το e-mail σας" required> 
- <input type="hidden" name="book" value="Πέντε χρόνια μοναξιά">  
- <input type="hidden" name="_captcha" value="false">   
- <!--<input type="hidden" name="_next" value="https://www.paypal.com/ncp/payment/25P9JXELVX3TQ"> -->
- <button type="submit">
+  <input type="email"
+  id="email"
+  placeholder="Το e-mail σας">
+   <button onclick="buyBook('https://www.paypal.com/ncp/payment/25P9JXELVX3TQ')">
  Συνέχεια στην πληρωμή (🛒€5)
- </button>
- </form>    
-
+  </button>
+   
 <br>
 <!-- Περίληψη -->
 <a href="Πέντε χρόνια μοναξιά_Περίληψη.txt"
@@ -268,6 +265,19 @@ color:blue;font-size:24px;">
 
 <br>
 
-
+<script>
+function buyBook(paypalLink) {
+var email =
+document.getElementById("email").value;
+if(email=="")
+{
+alert("Δώστε e-mail");
+return;
+}
+window.location.href =
+paypalLink;
+}
+</script>
+   
 </body>
 </html>
