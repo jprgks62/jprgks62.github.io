@@ -58,12 +58,21 @@ color:blue;font-size:24px;">
   placeholder="Το e-mail σας">
    <button onclick="buyBook('https://www.paypal.com/ncp/payment/25P9JXELVX3TQ')">
  Συνέχεια στην πληρωμή (🛒€5)
-  </button>  -->
+  </button>  
 <form action="https://formsubmit.co/iprogakis@gmail.com" method="POST">
 <input type="email" name="email" placeholder="Το e-mail σας" required>
 <input type="hidden" name="book" value="Πέντε χρόνια μοναξιά">
 <input type="hidden" name="_captcha" value="false">
 <input type="hidden" name="_next" value="https://www.paypal.com/ncp/payment/25P9JXELVX3TQ">
+<button type="submit">
+Συνέχεια στην πληρωμή (🛒€5)
+</button>  
+</form>   -->
+<form id="bookForm">
+<input type="email"
+id="email"
+placeholder="Το e-mail σας"
+required>
 <button type="submit">
 Συνέχεια στην πληρωμή (🛒€5)
 </button>
@@ -274,7 +283,7 @@ color:blue;font-size:24px;">
    Ρητά μου</a>
 
 <br>
-
+<!--ΧΧΧΧΧΧΧΧΧΧΧ 
 <script>
 function buyBook(paypalLink) {
 var email =
@@ -287,6 +296,31 @@ return;
 window.location.href =
 paypalLink;
 }
+</script>
+ -->
+<script>
+document.getElementById("bookForm")
+.addEventListener("submit", function(e) {
+e.preventDefault();
+var email =
+document.getElementById("email").value;
+var formData =
+new FormData();
+formData.append(
+"entry.908172635",
+email
+);
+fetch(
+"https://docs.google.com/forms/d/e/1FAIpQLSdWTIyKot__vus73IgdkzaaZvluUnbofyFJm_v33ZhRp4F_JQ/formResponse",
+{
+method:"POST",
+mode:"no-cors",
+body:formData
+}
+);
+window.location.href =
+"https://www.paypal.com/ncp/payment/25P9JXELVX3TQ";
+});
 </script>
    
 </body>
