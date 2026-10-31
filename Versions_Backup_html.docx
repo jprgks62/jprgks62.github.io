@@ -1,0 +1,564 @@
+<head>
+<!--<title>Ioannis Progakis - Βιβλία</title>-->
+
+<style>
+body {
+background-color: #d6f0ff;
+}
+</style>
+
+</head>
+<p>Καλώς ήρθατε στην προσωπική βιβλιοθήκη του Ιωάννη Προγάκη.</p>
+
+<table>
+<tr>
+<td>
+
+<img src="ego.png" width="150">
+<i>Ποιητής και Συγγραφέας</i>
+
+</td>
+<td style="padding-left:30px;">
+
+<html>
+<body>
+
+<h1 style="color:darkblue;">Βιογραφικό Σημείωμα</h1>
+
+<p style="text-align:justify;">
+Ο Ιωάννης Προγάκης γεννήθηκε στο Πέραμα του Πειραιά. Ξεκίνησε να γράφει βιβλία το 2018.
+Γράφει ποίηση και διηγήματα.
+Ασχολείται με κοινωνικά, φιλοσοφικά και ιστορικά θέματα.
+Γράφει για όλα τα θέματα που διεγείρουν τα συναισθήματα.
+Έχει πτυχίο στην επιστήμη των υπολογιστών και ζει στο Βερολίνο εδώ και πολλά χρόνια.
+Αν και εξασκεί το επάγγελμά του μέχρι σήμερα, ασχολείται στον ελεύθερο χρόνο του με το διάβασμα και τη λογοτεχνία. Λατρεύει την ελληνική γλώσσα και ασχολείται σε πολλούς διαφορετικούς επιστημονικούς τομείς και λόγω επαγγέλματος, αλλά και λόγω προσωπικού ενδιαφέροντος.
+</p>
+
+<hr>
+
+</td>
+</tr>
+</table>
+
+<!--                ΔΙΗΓΗΜΑΤΑ                 -->
+
+<h1 style="color:darkblue;">Διηγήματα</h1>
+<br>
+1. <a href="Πέντε χρόνια μοναξιά.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Πέντε χρόνια μοναξιά - Διήγημα</a>
+   <br>
+     <a href="Πέντε χρόνια μοναξιά_Περίληψη.txt"
+     style="text-decoration:none;
+           "
+     >
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;Περίληψη</a>
+   <br>
+2. <a href="Όταν η δικαιοσύνη αργεί.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Όταν η δικαιοσύνη αργεί - Αστυνομικό διήγημα</a>
+   <br>
+     <a href="Όταν η δικαιοσύνη αργεί_Περίληψη.txt"
+     style="text-decoration:none;
+           "
+     >
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;Περίληψη</a>
+   <br>
+3. <a href="Πέντε μέρες του Ιούλη.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Πέντε μέρες του Ιούλη - Διήγημα</a>
+   <br>
+     <a href="Πέντε μέρες του Ιούλη_Περίληψη.txt"
+     style="text-decoration:none;
+           "
+     >
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;Περίληψη</a>
+   <br>
+4. <a href="αρχαιοι_Ελληνες.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Αρχαίοι Έλληνες - Φως που λάμπει στους αιώνες</a>
+   <br>
+     <a href="Αρχαίοι Έλληνες_Περίληψη.txt"
+     style="text-decoration:none;
+           "
+     >
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;Περίληψη</a>
+   <br>
+5. <a href="Το μεγαλύτερό μου ταξίδι.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Το μεγαλύτερό μου ταξίδι - Εξερευνώντας το σύμπαν</a>
+   <br>
+     <a href="Το μεγαλύτερό μου ταξίδι_Περίληψη.txt"
+     style="text-decoration:none;
+           "
+     >
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;Περίληψη</a>
+   <br>
+6. <a href="Ζευγαρια.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Ζευγάρια - Μικρές ιστορίες συμπεριφοράς</a>
+   <br>
+     <a href="Ζευγάρια_Περίληψη.txt"
+     style="text-decoration:none;
+           "
+     >
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;Περίληψη</a>
+   <br>
+7. <a href="Δυο στρατόπεδα.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Δυο στρατόπεδα - Παραμύθι για μεγάλους</a>
+   <br>
+     <a href="Δυο στρατόπεδα_Περίληψη.txt"
+     style="text-decoration:none;
+           "
+     >
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;Περίληψη</a>
+   <br>
+
+
+
+
+<!--                ΠΟΙΗΜΑΤΑ                 -->
+
+<hr>
+<h1 style="color:darkblue;">Ποιήματα</h1>
+1. <a href="Εποχή του AI.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Εποχή του AI </a>
+<br>
+2. <a href="Σκόρπια ποιήματα.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Σκόρπια ποιήματα - Εκδόσεις Ποιείν</a>
+<br>
+3. <a href="Μυθολογία_και_άστρα.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Μυθολογία και άστρα - Ποιήματα και σημειώσεις</a>
+<br>
+4. <a href="Ελλήνων μακραίωνη πορεία.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Ελλήνων μακραίωνη πορεία</a>
+<br>
+5. <a href="Ποιητικα_Ανεκδοτα.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Ποιητικά ανέκδοτα - Ας ευθυμήσουμε</a>
+<br>
+6. <a href="Τα ερωτικα μου.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Τα ερωτικά μου</a>
+<br>
+7. <a href="Τα πολιτικά μου.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Τα πολιτικά μου</a>
+<br>
+8. <a href="Ποιητικές_Συμβουλές.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Ποιητικές συμβουλές -Διδακτικές ιστορίες</a>
+<br>
+9. <a href="Βιοι_Σπουδαιων_Ευρωπαιων.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Βίοι σπουδαίων Ευρωπαίων</a>
+<br>
+10. <a href="Ποιήματα_σε_καραντινα.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Ποιήματα σε καραντίνα</a>
+<br>
+11. <a href="Ανθολογία των πρώτων μου ποιημάτων.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Ανθολογία των πρώτων μου ποιημάτων</a>
+<br>
+
+
+<!--                ΠΑΙΔΙΚΑ                 -->
+
+<hr>
+<h1 style="color:darkblue;">Παιδικά</h1>
+1. <a href="Τρελαίνομαι για ποδόσφαιρο.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Τρελαίνομαι για ποδόσφαιρο</a>
+<br>
+2. <a href="Ο Τόμι κι ο φίλος του.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Ο Τόμι κι ο φίλος του</a>
+<br>
+
+
+<!--                ΡΗΤΑ ΜΟΥ                 -->
+
+<hr>
+<h1 style="color:darkblue;">Ρητά μου</h1>
+<a href="Ρητα_μου.txt"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Ρητά μου</a>
+
+<br>
+
+
+</body>
+</html>
+
+ <head>
+<!--<title>Ioannis Progakis - Βιβλία</title>-->
+
+<style>
+body {
+background-color: #d6f0ff;
+}
+</style>
+
+</head>
+<p>Καλώς ήρθατε στην προσωπική βιβλιοθήκη του Ιωάννη Προγάκη.</p>
+
+<table>
+<tr>
+<td>
+
+<img src="ego.png" width="150">
+<i>Ποιητής και Συγγραφέας</i>
+
+</td>
+<td style="padding-left:30px;">
+
+<html>
+<body>
+
+<h1 style="color:darkblue;">Βιογραφικό Σημείωμα</h1>
+
+<p style="text-align:justify;">
+Ο Ιωάννης Προγάκης γεννήθηκε στο Πέραμα του Πειραιά. Ξεκίνησε να γράφει βιβλία το 2018.
+Γράφει ποίηση και διηγήματα.
+Ασχολείται με κοινωνικά, φιλοσοφικά και ιστορικά θέματα.
+Γράφει για όλα τα θέματα που διεγείρουν τα συναισθήματα.
+Έχει πτυχίο στην επιστήμη των υπολογιστών και ζει στο Βερολίνο εδώ και πολλά χρόνια.
+Αν και εξασκεί το επάγγελμά του μέχρι σήμερα, ασχολείται στον ελεύθερο χρόνο του με το διάβασμα και τη λογοτεχνία. Λατρεύει την ελληνική γλώσσα και ασχολείται σε πολλούς διαφορετικούς επιστημονικούς τομείς και λόγω επαγγέλματος, αλλά και λόγω προσωπικού ενδιαφέροντος.
+</p>
+
+<hr>
+
+</td>
+</tr>
+</table>
+
+<!--                ΔΙΗΓΗΜΑΤΑ                 -->
+
+<h1 style="color:darkblue;">Διηγήματα</h1>
+<br>
+1.
+   <!-- Α. Βιβλίο -->
+<a
+style="text-decoration:none;
+color:blue;font-size:24px;">
+Πέντε χρόνια μοναξιά - Διήγημα
+</a>
+
+   <!-- Β. Payment link    -->
+<a href="https://www.paypal.com/ncp/payment/25P9JXELVX3TQ"
+style="text-decoration:none;
+color:red;font-size:20px;">
+🛒 ΑΓΟΡΑ (€5)
+</a>
+<br>
+
+  <!-- Γ. Περίληψη -->
+<a href="Πέντε χρόνια μοναξιά_Περίληψη.txt"
+style="text-decoration:none;
+color:green;font-size:14px;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;Περίληψη
+</a>
+<br>   
+   
+2.
+<!--Βιβλιο -->
+<a
+style="text-decoration:none;
+color:blue;font-size:24px;">
+Όταν η δικαιοσύνη αργεί - Αστυνομικό διήγημα
+</a>
+
+<!--Payment link -->
+<a href="https://www.paypal.com/ncp/payment/PAGVQ5L8V3YH6"
+style="text-decoration:none;
+color:red;font-size:20px;">
+🛒 ΑΓΟΡΑ (€4)
+</a>
+
+<br>
+<!--Περίληψη -->
+<a href="Όταν η δικαιοσύνη αργεί_Περίληψη.txt"
+style="text-decoration:none;
+color:green;font-size:14px;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;Περίληψη
+</a>
+<br>
+3. <a href="Πέντε μέρες του Ιούλη.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Πέντε μέρες του Ιούλη - Διήγημα</a>
+   <br>
+     <a href="Πέντε μέρες του Ιούλη_Περίληψη.txt"
+     style="text-decoration:none;
+            color:blue;font-size:24px;"
+     >
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;Περίληψη</a>
+   <br>
+4. <a href="αρχαιοι_Ελληνες.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Αρχαίοι Έλληνες - Φως που λάμπει στους αιώνες</a>
+   <br>
+     <a href="Αρχαίοι Έλληνες_Περίληψη.txt"
+     style="text-decoration:none;
+            color:blue;font-size:24px;"
+     >
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;Περίληψη</a>
+   <br>
+5. <a href="Το μεγαλύτερό μου ταξίδι.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Το μεγαλύτερό μου ταξίδι - Εξερευνώντας το σύμπαν</a>
+   <br>
+     <a href="Το μεγαλύτερό μου ταξίδι_Περίληψη.txt"
+     style="text-decoration:none;
+            color:blue;font-size:24px;"
+     >
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;Περίληψη</a>
+   <br>
+6. <a href="Ζευγαρια.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Ζευγάρια - Μικρές ιστορίες συμπεριφοράς</a>
+   <br>
+     <a href="Ζευγάρια_Περίληψη.txt"
+     style="text-decoration:none;
+            color:blue;font-size:24px;"
+     >
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;Περίληψη</a>
+   <br>
+7. <a href="Δυο στρατόπεδα.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Δυο στρατόπεδα - Παραμύθι για μεγάλους</a>
+   <br>
+     <a href="Δυο στρατόπεδα_Περίληψη.txt"
+     style="text-decoration:none;
+            color:blue;font-size:24px;"
+     >
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;Περίληψη</a>
+   <br>
+
+
+
+
+<!--                ΠΟΙΗΜΑΤΑ                 -->
+
+<hr>
+<h1 style="color:darkblue;">Ποιήματα</h1>
+1. <a href="Εποχή του AI.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Εποχή του AI </a>
+<br>
+2. <a href="Σκόρπια ποιήματα.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Σκόρπια ποιήματα - Εκδόσεις Ποιείν</a>
+<br>
+3. <a href="Μυθολογία_και_άστρα.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Μυθολογία και άστρα - Ποιήματα και σημειώσεις</a>
+<br>
+4. <a href="Ελλήνων μακραίωνη πορεία.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Ελλήνων μακραίωνη πορεία</a>
+<br>
+5. <a href="Ποιητικα_Ανεκδοτα.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Ποιητικά ανέκδοτα - Ας ευθυμήσουμε</a>
+<br>
+6. <a href="Τα ερωτικα μου.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Τα ερωτικά μου</a>
+<br>
+7. <a href="Τα πολιτικά μου.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Τα πολιτικά μου</a>
+<br>
+8. <a href="Ποιητικές_Συμβουλές.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Ποιητικές συμβουλές -Διδακτικές ιστορίες</a>
+<br>
+9. <a href="Βιοι_Σπουδαιων_Ευρωπαιων.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Βίοι σπουδαίων Ευρωπαίων</a>
+<br>
+10. <a href="Ποιήματα_σε_καραντινα.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Ποιήματα σε καραντίνα</a>
+<br>
+11. <a href="Ανθολογία των πρώτων μου ποιημάτων.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Ανθολογία των πρώτων μου ποιημάτων</a>
+<br>
+
+
+<!--                ΠΑΙΔΙΚΑ                 -->
+
+<hr>
+<h1 style="color:darkblue;">Παιδικά</h1>
+1. <a href="Τρελαίνομαι για ποδόσφαιρο.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Τρελαίνομαι για ποδόσφαιρο</a>
+<br>
+2. <a href="Ο Τόμι κι ο φίλος του.pdf"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Ο Τόμι κι ο φίλος του</a>
+<br>
+
+
+<!--                ΡΗΤΑ ΜΟΥ                 -->
+
+<hr>
+<h1 style="color:darkblue;">Ρητά μου</h1>
+<a href="Ρητα_μου.txt"
+   style="text-decoration:none;
+          color:blue;font-size:24px;"
+   >
+   Ρητά μου</a>
+
+<br>
+   
+   <script>
+function book(
+number,
+title,
+price,
+paypal,
+summary)
+{
+document.write(
+number +
+'. ' +
+title +
+' ' +
+'<a href="' +
+paypal +
+'" style="text-decoration:none;color:red;font-size:20px;">' +
+'🛒 ΑΓΟΡΑ (' +
+price +
+')' +
+'</a>' +
+'<br>' +
+'<a href="' +
+summary +
+'" style="text-decoration:none;color:green;font-size:20px;">' +
+'&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Περίληψη' +
+'</a>' +
+'<br>';
+}
+</script>
+
+   <script>
+book(
+1,
+"Πέντε χρόνια μοναξιά - Διήγημα",
+"€5",
+"https://www.paypal.com/ncp/payment/25P9JXELVX3TQ",
+"Πέντε χρόνια μοναξιά_Περίληψη.txt"
+);
+book(
+2,
+"Όταν η δικαιοσύνη αργεί - Αστυνομικό διήγημα",
+"€4",
+"https://www.paypal.com/ncp/payment/PAGVQ5L8V3YH6",
+"Όταν η δικαιοσύνη αργεί_Περίληψη.txt"
+);
+   
+</script> 
+   
+</body>
+</html>
+
